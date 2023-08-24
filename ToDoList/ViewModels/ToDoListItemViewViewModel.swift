@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+//ViewMovel for single list item view (each row in items list)
+
+class ToDoListItemViewViewModel: ObservableObject{
+    init(){}
+    
+}
